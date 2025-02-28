@@ -1,2 +1,2 @@
-# project
-this repository used for project code and notes
+# our project
+#### this repository used for project code and notes
